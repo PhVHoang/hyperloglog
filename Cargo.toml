@@ -1,0 +1,9 @@
+[package]
+name = "hyperloglog"
+version = "0.1.0"
+edition = "2021"
+description = "A fast HyperLogLog implementation in Rust"
+license = "MIT"
+repository = "https://github.com/yourusername/hyperloglog"
+
+[dependencies]
